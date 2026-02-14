@@ -82,3 +82,26 @@ default browser your system uses.
     - WSL: Navigate to the directory containing the file and type explorer.exe index.html. This will open the file 
 in your system’s default browser. Note, You must use the filename only. Using a path (e.g., ./index.html or 
 an absolute path) will open the Windows File Explorer instead.
+
+### NOTE  VS Code keyboard Shortcut
+
+If you find typing out the comments syntax tiring, the following shortcut will help you quickly create a new comment, convert any line to a comment, or uncomment any line:
+
+    - Mac Users:  Cmd + /
+    <strong>- Linux Users: Ctrl + /</strong>
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
