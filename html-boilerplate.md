@@ -90,7 +90,9 @@ If you find typing out the comments syntax tiring, the following shortcut will h
     - Mac Users:  Cmd + /
     <strong>- Linux Users: Ctrl + /</strong>
 
+### Bold and Italic text
 
+    - Do not use <b> and <i>.  <strong> and <em> are more descriptive and proper.  
 -
 -
 -
