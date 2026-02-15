@@ -7,3 +7,11 @@
 ### Live Preview in external browser
 
     - ctrl + L + P   
+
+### Markdown Preview in new tab
+
+    - ctrl + M + P
+    
+### Emmet: Wrap with abbreviation
+
+    - shift + alt + Z
